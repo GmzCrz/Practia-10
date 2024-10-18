@@ -19,6 +19,6 @@ int main()
           {
             printf("%d\t", arr1[i][j]);
           }
-        printf("\n\n");
       }
+    return=0
   }
