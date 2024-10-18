@@ -29,7 +29,9 @@ int main()
         for (j = 0; j < 3; j++)
           {
             printf("%d\t", arr1[i][j]);
-            
+          }
+      }
+        
     for (i = 0; i < 3; i++) 
       {
         printf("\n");
@@ -38,5 +40,6 @@ int main()
             printf("%d\t", arr2[i][j]);
           }
       }
+    return 0;
+    }
   
-  }
